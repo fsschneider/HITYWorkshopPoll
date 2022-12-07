@@ -7,9 +7,9 @@
 
 ---
 
-For the 2022 NeurIPS workshop "Has it Trained Yet? A Workshop for Algorithmic Efficiency in Practical Neural Network Training" we performed a poll about the current training practices in the community. The poll was shared online via the workshop website, Twitter, and email, as well as at the in-person NeurIPS workshop.
+For the 2022 NeurIPS workshop "Has it Trained Yet? A Workshop for Algorithmic Efficiency in Practical Neural Network Training" we conducted a survey to gather insights on the current training practices within the community. The poll was distributed through the workshop website, Twitter, email, and at the in-person NeurIPS event.
 
-The results of the poll are summarized in the PDF of this repository.
+The survey's results can be found in the [PDF](PollResults.pdf) in this repository.
 
 ![The first page of the poll results](PollResults.png)
 
@@ -27,6 +27,5 @@ If you use the results of the poll, please consider citing:
    author={Frank Schneider and Zachary Nado and Philipp Hennig and George Dahl and Naman Agarwal},
    year={2022},
    howpublished = "\url{https://github.com/fsschneider/HITYWorkshopPoll}",
-
 }
 ```
