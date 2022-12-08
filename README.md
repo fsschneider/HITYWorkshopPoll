@@ -18,13 +18,13 @@ The survey's results can be found in the [PDF](PollResults.pdf) in this reposito
 
 If you use the results of the poll, please consider citing:
 
-> Frank Schneider, Zachary Nado, Philipp Hennig, George Dahl, Naman Agarwal<br/>
+> Frank Schneider, Zachary Nado, Philipp Hennig, George E. Dahl, Naman Agarwal<br/>
 > **HITY workshop poll, NeurIPS 2022**<br/>
 
 ```bibtex
 @misc{schneider2021HITY,
    title={{HITY workshop poll, NeurIPS 2022}},
-   author={Frank Schneider and Zachary Nado and Philipp Hennig and George Dahl and Naman Agarwal},
+   author={Frank Schneider and Zachary Nado and Philipp Hennig and George E. Dahl and Naman Agarwal},
    year={2022},
    howpublished = "\url{https://github.com/fsschneider/HITYWorkshopPoll}",
 }
